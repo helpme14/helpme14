@@ -41,8 +41,8 @@ Building fast, scalable apps with modern web and scripting technologies.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/gsicat14/))
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cpe.sicatgio14@gmail.com)
 
 ---
 
@@ -52,17 +52,17 @@ Building fast, scalable apps with modern web and scripting technologies.
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <h3>CpEVincentDC's GitHub Stats</h3>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=cpevincentdc&show_icons=true&theme=radical&hide_border=true&card_width=500" />
+        <h3>Shio's GitHub Stats</h3>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=helpme14&show_icons=true&theme=radical&hide_border=true&card_width=500" />
       </td>
       <td width="50%" align="center">
         <h3>Most Used Languages</h3>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpevincentdc&layout=compact&theme=radical&hide_border=true&card_width=500" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helpm14&layout=compact&theme=radical&hide_border=true&card_width=500" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=cpevincentdc&theme=radical&hide_border=true" />
+        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=helpme14&theme=radical&hide_border=true" />
       </td>
     </tr>
   </table>

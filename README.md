@@ -4,10 +4,15 @@ Building fast, scalable apps with modern web and scripting technologies.
 
 ## 🧩 About Me
 
-- 💻 Full Stack: React, Vite, PHP Laravel, Django
-- 🖥️ Windows Apps: Scripting, Tkinter
-- 🔗 API Integrations, Data Automation
+I'm a cross-platform engineer with strong experience delivering end-to-end solutions, from clean UI/UX to robust backend logic and custom automation.
 
+- 🚀 Architect, build, and ship full stack web applications with **React**, **Vite**, **Laravel (PHP)**, and **Django (Python)**.
+- ⚡ Rapid prototyping and automation with scripting (Python/Bash), REST APIs, and custom desktop apps (Tkinter, Windows).
+- 🔄 Data automation, third-party API integrations, and system scripting to streamline business processes.
+- 🛠️ Expert in modern deployment workflows, Git versioning, and toolchains across Windows and Linux.
+- 🏗️ Enjoy crafting responsive UIs, optimizing backend performance, and building reliable dev pipelines.
+- 💡 Always exploring new frameworks, libraries, and developer tooling to keep solutions modern and maintainable.
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -33,9 +38,9 @@ Building fast, scalable apps with modern web and scripting technologies.
 ## 🚀 Interests
 
 - UI/UX for web and desktop
-- Efficient backend logic
-- Fast deployment with Vite & Django
-- Automation & custom scripting
+- Efficient backend logic and deployment
+- API integration and data automation
+- Custom scripting and process automation
 
 ---
 

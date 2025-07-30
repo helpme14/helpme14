@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👨‍💻 Computer Engineer | Full Stack Developer
 
-<!--
-**helpme14/helpme14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building fast, scalable apps with modern web and scripting technologies.
 
-Here are some ideas to get you started:
+## 🧩 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full Stack: React, Vite, PHP Laravel, Django
+- 🖥️ Windows Apps: Scripting, Tkinter
+- 🔗 API Integrations, Data Automation
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**Backend**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+**Desktop**  
+![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%20App-0078D6?logo=windows&logoColor=white)
+![Scripting](https://img.shields.io/badge/Scripting-1A1A1A?logo=python&logoColor=white)
+
+---
+
+## 🚀 Interests
+
+- UI/UX for web and desktop
+- Efficient backend logic
+- Fast deployment with Vite & Django
+- Automation & custom scripting
+

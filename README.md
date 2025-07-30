@@ -37,3 +37,17 @@ Building fast, scalable apps with modern web and scripting technologies.
 - Fast deployment with Vite & Django
 - Automation & custom scripting
 
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helpme14&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helpme14&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=helpme14&theme=radical)

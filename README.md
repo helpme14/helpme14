@@ -62,7 +62,7 @@ Building fast, scalable apps with modern web and scripting technologies.
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=helpme14&theme=radical&hide_border=true" />
+        <img width="90%" src="https://streak-stats.demolab.com/?user=helpme14&theme=radical&hide_border=true" />
       </td>
     </tr>
   </table>

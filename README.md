@@ -22,6 +22,7 @@ I'm a cross-platform engineer with strong experience delivering end-to-end solut
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -31,6 +32,14 @@ I'm a cross-platform engineer with strong experience delivering end-to-end solut
 ![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?logo=google&logoColor=white)
 ![Scripting](https://img.shields.io/badge/Scripting-1A1A1A?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+
+**Database**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**DevOps / Tooling**  
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Desktop**  
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?logo=python&logoColor=white)
@@ -42,6 +51,8 @@ I'm a cross-platform engineer with strong experience delivering end-to-end solut
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-FFB300?logo=python&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-4B8DF8?logo=python&logoColor=white)
 ![PDF Extraction](https://img.shields.io/badge/PDF%20Reading-E53935?logo=adobeacrobatreader&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ---
 
 ## 🚀 Interests

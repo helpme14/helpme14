@@ -46,20 +46,24 @@ Building fast, scalable apps with modern web and scripting technologies.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=helpme14&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helpme14&layout=compact&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=helpme14&theme=radical" />
-    </td>
-  </tr>
-</table>
+<div align="center" width="100%">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>CpEVincentDC's GitHub Stats</h3>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=cpevincentdc&show_icons=true&theme=radical&hide_border=true&card_width=500" />
+      </td>
+      <td width="50%" align="center">
+        <h3>Most Used Languages</h3>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpevincentdc&layout=compact&theme=radical&hide_border=true&card_width=500" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=cpevincentdc&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>

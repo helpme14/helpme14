@@ -27,12 +27,20 @@ I'm a cross-platform engineer with strong experience delivering end-to-end solut
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?logo=google&logoColor=white)
+![Scripting](https://img.shields.io/badge/Scripting-1A1A1A?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
 **Desktop**  
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows%20App-0078D6?logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Scripting](https://img.shields.io/badge/Scripting-1A1A1A?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
+**Other**  
+![Image Processing](https://img.shields.io/badge/Image%20Processing-FFB300?logo=python&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-4B8DF8?logo=python&logoColor=white)
+![PDF Extraction](https://img.shields.io/badge/PDF%20Reading-E53935?logo=adobeacrobatreader&logoColor=white)
 ---
 
 ## 🚀 Interests

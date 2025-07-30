@@ -48,6 +48,18 @@ Building fast, scalable apps with modern web and scripting technologies.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helpme14&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helpme14&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=helpme14&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=helpme14&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helpme14&layout=compact&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=helpme14&theme=radical" />
+    </td>
+  </tr>
+</table>

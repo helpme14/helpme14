@@ -44,6 +44,8 @@ I'm a cross-platform engineer with strong experience delivering end-to-end solut
 **DevOps / Tooling**  
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white)
 
 **Desktop**  
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?logo=python&logoColor=white)

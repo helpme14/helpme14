@@ -72,7 +72,7 @@ I'm a cross-platform engineer with strong experience delivering end-to-end solut
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/gsicat14/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/gsicat14/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cpe.sicatgio14@gmail.com)
 
 ---

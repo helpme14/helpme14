@@ -1,4 +1,4 @@
-# 👨‍💻 Computer Engineer | Full Stack Developer
+# 👨‍💻 Computer Engineer | SOFTWARE ENGINEER / Full Stack Web Dev
 
 Building fast, scalable apps with modern web and scripting technologies.
 

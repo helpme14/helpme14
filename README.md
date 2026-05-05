@@ -2,7 +2,7 @@
 
 Building fast, scalable apps with modern web and scripting technologies.
 
-## 🧩 About Me
+## About Me
 
 I'm a cross-platform engineer with strong experience delivering end-to-end solutions, from clean UI/UX to robust backend logic and custom automation.
 
@@ -15,7 +15,7 @@ I'm a cross-platform engineer with strong experience delivering end-to-end solut
   
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -61,7 +61,7 @@ I'm a cross-platform engineer with strong experience delivering end-to-end solut
 
 ---
 
-## 🚀 Interests
+## Interests
 
 - UI/UX for web and desktop
 - Efficient backend logic and deployment
@@ -70,14 +70,14 @@ I'm a cross-platform engineer with strong experience delivering end-to-end solut
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsicat14/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cpe.sicatgio14@gmail.com)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center" width="100%">
   <table width="100%">
